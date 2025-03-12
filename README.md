@@ -1,6 +1,6 @@
 # IPSSI-AWS
 
 
-TERRAFORM
+Terraform
 
 Cloudformation
